@@ -16,6 +16,7 @@ Applescripts related to routine tasks in creating and managing courses.
 	I got tired of always needing to scroll through my syllabus to find the next class.
 
 	Given a pdf syllabus for a MWF class in which dates are written Day Month Date, e.g. Monday January 9, 
-	this script will automatically open the syllabus to the next class.
+	this script will automatically open the syllabus to the next class (based on the current system date).
+	I call the script from an Alfred workflow.
 
 * Find day TTh.scpt
