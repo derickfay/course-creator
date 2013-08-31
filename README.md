@@ -1,7 +1,7 @@
 course-creator
 ==============
 
-Applescripts for creating &amp; working with syllabi and teaching directory template
+Applescripts related to routine tasks in creating and managing courses.
 
 * Generate syllabus table in HTML.scpt
 
