@@ -1,4 +1,4 @@
-(* Generate syllabus table in Markdown
+(* Generate syllabus table in HTML & copy it to the clipboard
 by Derick Fay, June 2013 *)
 
 set noWeeks to 10 -- 10 week course
