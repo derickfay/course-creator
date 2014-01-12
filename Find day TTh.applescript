@@ -15,11 +15,11 @@ tell application "Skim"
 	else if theWeekday = "Wednesday" then
 		set theDate to (current date) + 86400
 	else if theWeekday = "Friday" then
-		set theDate to (current date) + (3 * 86400)
+		set theDate to (current date) + (4 * 86400)
 	else if theWeekday = "Saturday" then
-		set theDate to (current date) + (2 * 86400)
+		set theDate to (current date) + (3 * 86400)
 	else if theWeekday = "Sunday" then
-		set theDate to (current date) + 86400
+		set theDate to (current date) + (2 * 86400)
 	end if
 	
 	set searchTerm to (weekday of theDate as string) & " " & (month of theDate as string) & " " & (day of theDate as string)
