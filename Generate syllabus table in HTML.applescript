@@ -2,9 +2,9 @@
 by Derick Fay, June 2013 *)
 
 set noWeeks to 10 -- 10 week course
-set theDays to "tr" -- Tuesday and Thursday
+set theDays to "mwf" -- Tuesday and Thursday
 -- options are m, t, w, r, f, s, u
-set theStart to date "Monday, January 6, 2014 12:00:00 AM" -- Monday of the week courses start
+set theStart to date "Monday, March 31, 2014 at 12:00:00 AM" -- Monday of the week courses start
 -- leave everything below here alone
 
 set theString to "<table>"
