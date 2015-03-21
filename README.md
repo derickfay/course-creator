@@ -5,7 +5,11 @@ Applescripts related to routine tasks in creating and managing courses.
 
 * Generate syllabus table in HTML.scpt
 
-	Creates a table with day month date labels.  You can set the # of weeks, days of the week and start date.
+	Creates a table with day month date labels.  You can set the # of weeks, days of the week and start date.  This version puts each class in a separate column, with one row per week.
+	
+* Generate syllabus table in HTML - multi-line
+
+	Creates a table with day month date labels.  You can set the # of weeks, days of the week and start date.  This version puts each class on a separate row.
 
 * Generate directories.scpt
 
