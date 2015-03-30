@@ -13,11 +13,11 @@ Applescripts related to routine tasks in creating and managing courses.
 	
 * Generate syllabus table in Markdown - multi-line
 
-Same as above but in Markdown.  Decided Markdown tables are too messy and abandoned it.
+	Same as above but in Markdown.  Decided Markdown tables are too messy and abandoned it.
 
 * Generate syllabus table in Numbers
 
-The site of any future development.  Decided to build tables in a spreadsheet rather than use markup.
+	The site of any future development.  Decided to build tables in a spreadsheet rather than use markup.
 
 * Generate directories.scpt
 
